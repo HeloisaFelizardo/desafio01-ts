@@ -33,6 +33,7 @@ console.log(studentAccount);
 studentAccount.withdraw(420);
 console.log(studentAccount);
 studentAccount.withdraw(900);
+studentAccount.deposit(50);
 console.log(studentAccount);
 console.log(studentAccount.getName());
 console.log(studentAccount.getStatus());
